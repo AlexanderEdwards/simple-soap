@@ -1,0 +1,11 @@
+hello/wsdl/package-info.class
+hello/wsdl/DivideResponse.class
+hello/wsdl/ObjectFactory.class
+hello/wsdl/Multiply.class
+hello/wsdl/Subtract.class
+hello/wsdl/SubtractResponse.class
+hello/wsdl/Add.class
+hello/wsdl/MultiplyResponse.class
+hello/wsdl/AddResponse.class
+hello/wsdl/Divide.class
+hello/Application.class
